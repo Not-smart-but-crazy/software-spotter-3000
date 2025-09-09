@@ -37,6 +37,3 @@ The table starts in row 4, with a header row and your name at the top in row 2.
 
 ```bash
 pip install odfpy openpyxl
-
-
-Translated with DeepL.com (free version)
