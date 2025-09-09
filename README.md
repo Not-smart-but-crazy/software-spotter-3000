@@ -10,11 +10,11 @@ This project contains two Python scripts that read all installed programmes on a
   - **XLSX** (Microsoft Excel, also compatible with LibreOffice and Google Sheets)
 
 ## Files
-- `export_libreoffice.py`
+- `SSP3000-libreoffice.py`
 Exports the list to a **LibreOffice Calc (.ods)** file.
 Uses the [`odfpy`](https://pypi.org/project/odfpy/) library.
 
-- `export_excel.py`  
+- `SSP3000-excel.py`  
   Exports the list to an **Excel (.xlsx)** file.  
   Uses the [`openpyxl`](https://pypi.org/project/openpyxl/) library.
 
